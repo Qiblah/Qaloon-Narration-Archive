@@ -1,6 +1,6 @@
 # Qaloon Narration Archive
 
-Welcome to the Qaloon Narration Archive! This repository contains pages of the Qaloon narration from the Quran in various popular formats, as well as in text and JSON formats. You can find high-quality content related to this narration and more in the QuranArchive repository. [QuranArchive]([link](https://github.com/Qiblah/QuranArchive))
+Welcome to the Qaloon Narration Archive! This repository contains pages of the Qaloon narration from the Quran in various popular formats, as well as in text and JSON formats. You can find high-quality content related to this narration and more in the [QuranArchive](https://github.com/Qiblah/QuranArchive) repository.
 
 ## Contents
 
@@ -20,7 +20,7 @@ Contributions are welcome! Submit a pull request with improvements or additional
 
 ## Resources Used
 
-- [qurancomplex.gov]([link](https://dm.qurancomplex.gov.sa/))
+- [qurancomplex.gov](https://dm.qurancomplex.gov.sa/)
 
 
 ## License
